@@ -1,0 +1,5 @@
+/home/hellzhammer/Desktop/Kronus_Project/Kronus_Neural/bin/Release/netstandard2.1/publish/Kronus_Neural.dll
+/home/hellzhammer/Desktop/Kronus_Project/Kronus_Neural/bin/Release/netstandard2.1/publish/Kronus_Neural.deps.json
+/home/hellzhammer/Desktop/Kronus_Project/Kronus_Neural/bin/Release/netstandard2.1/publish/Kronus_Neural.pdb
+/home/hellzhammer/Desktop/Kronus_Project/Kronus_Neural/bin/Release/netstandard2.1/publish/KronusML.dll
+/home/hellzhammer/Desktop/Kronus_Project/Kronus_Neural/bin/Release/netstandard2.1/publish/KronusML.pdb

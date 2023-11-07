@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <PackageId>KRONUSNEURAL</PackageId>
+    <Version>0.4.0.5</Version>
+    <Authors>Matt Perley</Authors>
+	<Company>Perley Automation</Company>
+  </PropertyGroup>
+
+</Project>

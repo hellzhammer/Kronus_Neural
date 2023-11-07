@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>KRONUSNEURAL</id>
+    <version>0.4.0.5</version>
+    <authors>Matt Perley</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="/home/hellzhammer/Desktop/Kronus_Project/Kronus_Neural/bin/release/netstandard2.1/Kronus_Neural.dll" target="lib/netstandard2.1/Kronus_Neural.dll" />
+  </files>
+</package>

@@ -1,0 +1,15 @@
+C:\Users\mattp\Desktop\Kronus_Libs\Kronus_Neural\Kronus_Neural\bin\Debug\net6.0\Kronus_Neural.deps.json
+C:\Users\mattp\Desktop\Kronus_Libs\Kronus_Neural\Kronus_Neural\bin\Debug\net6.0\Kronus_Neural.dll
+C:\Users\mattp\Desktop\Kronus_Libs\Kronus_Neural\Kronus_Neural\bin\Debug\net6.0\Kronus_Neural.pdb
+C:\Users\mattp\Desktop\Kronus_Libs\Kronus_Neural\Kronus_Neural\bin\Debug\net6.0\KronusML.dll
+C:\Users\mattp\Desktop\Kronus_Libs\Kronus_Neural\Kronus_Neural\bin\Debug\net6.0\KronusML.pdb
+C:\Users\mattp\Desktop\Kronus_Libs\Kronus_Neural\Kronus_Neural\obj\Debug\net6.0\Kronus_Neural.csproj.AssemblyReference.cache
+C:\Users\mattp\Desktop\Kronus_Libs\Kronus_Neural\Kronus_Neural\obj\Debug\net6.0\Kronus_Neural.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mattp\Desktop\Kronus_Libs\Kronus_Neural\Kronus_Neural\obj\Debug\net6.0\Kronus_Neural.AssemblyInfoInputs.cache
+C:\Users\mattp\Desktop\Kronus_Libs\Kronus_Neural\Kronus_Neural\obj\Debug\net6.0\Kronus_Neural.AssemblyInfo.cs
+C:\Users\mattp\Desktop\Kronus_Libs\Kronus_Neural\Kronus_Neural\obj\Debug\net6.0\Kronus_Neural.csproj.CoreCompileInputs.cache
+C:\Users\mattp\Desktop\Kronus_Libs\Kronus_Neural\Kronus_Neural\obj\Debug\net6.0\Kronus_Neural.csproj.CopyComplete
+C:\Users\mattp\Desktop\Kronus_Libs\Kronus_Neural\Kronus_Neural\obj\Debug\net6.0\Kronus_Neural.dll
+C:\Users\mattp\Desktop\Kronus_Libs\Kronus_Neural\Kronus_Neural\obj\Debug\net6.0\refint\Kronus_Neural.dll
+C:\Users\mattp\Desktop\Kronus_Libs\Kronus_Neural\Kronus_Neural\obj\Debug\net6.0\Kronus_Neural.pdb
+C:\Users\mattp\Desktop\Kronus_Libs\Kronus_Neural\Kronus_Neural\obj\Debug\net6.0\ref\Kronus_Neural.dll
